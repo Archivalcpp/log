@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    font-family: "Verdana";
+}
+h1 {
+    color: White;
+    text-align:center
+}
+h2 {
+    color: lightgray;
+    text-align:center
+}
+p {
+    color: red;
+}
+
+.head {
+    background-color: red;
+    border: 5px solid white;
+    border-radius: 16px;
+    padding: 24px;
+    margin: 20px;
+}
+.body {
+    background-color: black;
+    border: 5px solid white;
+    border-radius: 16px;
+    padding: 24px;
+    margin: 20px;
+}
